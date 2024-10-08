@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#### I'm Gazi, a software engineer at Relay and a software engineering fellow at Headstarter AI!
-#### Learning RAG and also released the [Relay iOS app](https://apps.apple.com/us/app/relay-intro-to-islam-prayer/id6501968975)! 
-###### Android development is underway!
+#### I'm Gazi, a software engineer at Relay!
+#### Released the [Relay iOS app](https://apps.apple.com/us/app/relay-intro-to-islam-prayer/id6501968975)! 
+###### Android development among other projects are underway!
 
 <!--
 **gazishahi/gazishahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
