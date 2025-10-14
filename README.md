@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#### I'm Gazi, a software engineer at Relay!
+#### I'm Gazi, a software engineer at Khidma Inc! Prev at Relay
 #### Released the Relay [iOS](https://apps.apple.com/us/app/relay-intro-to-islam-prayer/id6501968975) and [Android](https://play.google.com/store/apps/details?id=com.relayislam&pcampaignid=web_share) app! 
-###### Building...
+###### Building [Khidma](https://www.khidma.io/)
 
 <!--
 **gazishahi/gazishahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
