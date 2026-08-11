@@ -8,8 +8,7 @@
 #### Khidma [Web](https://www.khidma.io/) [iOS](https://apps.apple.com/us/app/khidma-c73176/id6756220821)
 #### apta [iOS](https://apps.apple.com/us/app/apta-prayer-times/id6760022766)
 #### Lucis [macOS](https://apps.apple.com/us/app/lucis-daily-intentions/id6774706942)
-##### Relay [iOS](https://apps.apple.com/us/app/relay-intro-to-islam-prayer/id6501968975) [Android](https://play.google.com/store/apps/details?id=com.relayislam&pcampaignid=web_share)
-
+##### Relay [iOS](https://apps.apple.com/us/app/relay-intro-to-islam-prayer/id6501968975)
 
 Also built [SWEAT OS](https://github.com/gazishahi/sweat-os) for those who want to do SWE interview prep with Claude Code.
 
